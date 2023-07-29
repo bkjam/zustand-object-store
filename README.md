@@ -1,2 +1,2 @@
-# zustand-object-store
-Avoid Unnecessary Re-Rendering of React Array Components when using Zustand
+# Avoid Unnecessary Re-Rendering of React Array Components When Using Zustand
+
