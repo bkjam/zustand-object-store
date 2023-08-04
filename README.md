@@ -13,4 +13,4 @@ yarn start
 
 - [https://docs.pmnd.rs/zustand/getting-started/introduction](https://docs.pmnd.rs/zustand/getting-started/introduction)
 - [https://tkdodo.eu/blog/working-with-zustand](https://tkdodo.eu/blog/working-with-zustand)
-
+- [https://blog.logrocket.com/building-custom-checkbox-react/](https://blog.logrocket.com/building-custom-checkbox-react/)
